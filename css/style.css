@@ -3,3 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* rest */
+
+.container > *{
+    border: 1px dotted red;
+    /* reset */
+
+    padding: 12px;
+}
